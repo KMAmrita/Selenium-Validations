@@ -1,6 +1,7 @@
 # Selenium-Validations
 
 No TestNG found and no run of test suite
+ because the https://dl.bintray.com/testng-team/testng-eclipse-release/6.14.3/ are banned and hence no testNG is not running in the test suite.
 
 * updated the eclipse to latest version since the TestNG for Eclipse is not getting installed from Eclipse Market Place.
 * After downloading new version of eclipse faced below issue.
